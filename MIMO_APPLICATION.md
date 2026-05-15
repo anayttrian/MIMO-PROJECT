@@ -1,9 +1,9 @@
 # Mimo Program Application - Project Summary
 
-**Applicant:** [Your Name]  
+**Applicant:** Anay Ttrian  
 **Project:** AI-Driven Stock Trading Analysis Agent  
 **Date:** May 15, 2026  
-**GitHub:** https://github.com/yourusername/mimo-ai-agent-project
+**GitHub:** https://github.com/anayttrian/MIMO-PROJECT
 
 ---
 
@@ -308,7 +308,7 @@ I'm applying to the Mimo program because:
 
 ## 3. PROJECT LINKS
 
-- **GitHub Repository**: https://github.com/yourusername/mimo-ai-agent-project
+- **GitHub Repository**: https://github.com/anayttrian/MIMO-PROJECT
 - **Documentation**: See README.md in repository
 - **Demo Video**: [To be added]
 - **Live Demo**: [To be added]
@@ -317,11 +317,11 @@ I'm applying to the Mimo program because:
 
 ## 4. CONTACT INFORMATION
 
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourusername)
+- **Name**: Anay Ttrian
+- **Email**: anayttrian@gmail.com
+- **GitHub**: [@anayttrian](https://github.com/anayttrian)
+- **Twitter**: [@anayttrian](https://twitter.com/anayttrian)
+- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/anayttrian)
 
 ---
 
