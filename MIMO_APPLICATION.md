@@ -1,6 +1,6 @@
 # Mimo Program Application - Project Summary
 
-**Applicant:** Anay Ttrian  
+**Applicant:** Idham Lazuardi  
 **Project:** AI-Driven Stock Trading Analysis Agent  
 **Date:** May 15, 2026  
 **GitHub:** https://github.com/anayttrian/MIMO-PROJECT
@@ -317,7 +317,7 @@ I'm applying to the Mimo program because:
 
 ## 4. CONTACT INFORMATION
 
-- **Name**: Anay Ttrian
+- **Name**: Idham Lazuardi
 - **Email**: anayttrian@gmail.com
 - **GitHub**: [@anayttrian](https://github.com/anayttrian)
 - **Twitter**: [@anayttrian](https://twitter.com/anayttrian)
